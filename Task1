@@ -1,4 +1,4 @@
-package org.example.seminar4.hw4.model1;
+package Java_HW4.Task1;
 
 import java.util.Iterator;
 import java.util.LinkedList;
